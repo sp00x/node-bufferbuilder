@@ -1,0 +1,24 @@
+{
+  "name": "bufferbuilder",
+  "description": "Library for building buffers, and doing various range manipulations",
+  "keywords": [
+    "log",
+    "logging"
+  ],
+  "author": {
+    "name": "Rune Bjerke",
+    "url": "http://spoox.org"
+  },
+  "version": "0.0.1",
+  "license": "BSD",
+  "repository": {
+    "url": ""
+  },
+  "main": "index.js",
+  "dependencies": {
+  },
+  "engines": {
+    "node": "*"
+  },
+  "private": true
+}
